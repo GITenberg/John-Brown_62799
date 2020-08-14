@@ -1,0 +1,40 @@
+_repo: John-Brown_62799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Bois, W. E. B. (William Edward Burghardt)
+    aliases:
+    - Bois, W. E. Burghardt Du
+    - DuBois, W. E. B. (William Edward Burghardt)
+    - DuBois, W. E. Burghardt
+    - Bois, W. E. B. Du
+    birthdate: 1868
+    deathdate: 1963
+    gutenberg_agent_id: '226'
+    url: http://www.gutenberg.org/2009/agents/226
+    wikipedia: https://en.wikipedia.org/wiki/W._E._B._Du_Bois
+  editor:
+    agent_name: Oberholtzer, Ellis Paxson
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '52131'
+    url: http://www.gutenberg.org/2009/agents/52131
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62799'
+  lccn: 09024274
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: American crisis biographies
+subjects:
+- !lcsh 'Brown, John, 1800-1859'
+- !lcsh 'African Americans -- Civil rights -- Philosophy'
+- !lcsh 'Abolitionists -- United States -- Biography'
+- !lcc 'E300'
+- GITenberg
+title: John Brown
+url: http://www.gutenberg.org/ebooks/62799
