@@ -1,5 +1,8 @@
 _repo: John-Brown_62799
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62799-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Bois, W. E. B. (William Edward Burghardt)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '52131'
     url: http://www.gutenberg.org/2009/agents/52131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62799#John-Brown
 gutenberg_issued: '2020-08-01'
 gutenberg_type: Text
 identifiers:
